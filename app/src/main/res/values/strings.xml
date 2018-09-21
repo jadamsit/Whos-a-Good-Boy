@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Who\'s a Good Boy?</string>
+    <string name="dog_selection">See Pictures of Dogs</string>
+    <string name="cat_selection">See Pictures of Cats</string>
+    <string name="cat_button">New Picture</string>
+</resources>
